@@ -39,4 +39,5 @@ int main(){
         normal.pop();
     }
     cout << endl;
-}   
+}
+
